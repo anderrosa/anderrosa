@@ -1,44 +1,67 @@
-# 👋 Olá, eu sou Anderson Rosa!
+<h1 align="center">Hello, I'm Anderson Rosa 👋</h1>
 
-💻 Sou iniciante em programação e estou explorando novas tecnologias para me tornar um desenvolvedor completo.
-
----
-
-## 📖 Sobre mim
-
-- 💻 Explorando novas tecnologias e desenvolvendo soluções de software.  
-- 📚 Estudando na **Rocketseat** - Formação Python.  
-- 🌱 Aprendendo mais sobre: **C**, **Python**, **HTML**, **CSS** e **JavaScript**.
+<p align="center">
+  <em>Software Engineer • Tech Content Creator • Python Backend Developer</em>
+</p>
 
 ---
 
+<p align="center">
+  Technology, education, and creativity move me.
+  This space is dedicated to my personal projects and creative experiments with technology :)
+</p>
 
-- 📫 Como me encontrar:
-
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/oandersonrosa_) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:andersonrosa.dev@gmail.com)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersonrosadev)
-
-- ⚡ Curiosidade: Comecei minha jornada na programação com **C** no Bootcamp da 42Rio, criando pequenos projetos para praticar.
-
----
-
-## 🛠️ Tecnologias que uso no meu dia
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<p align="center">
+  <a href="https://www.linkedin.com/in/andersonrosadev/">
+    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="https://andersonrosa.dev/">
+    <img src="https://img.shields.io/badge/-Portfólio-00AB33?style=flat-square&logo=Google-Chrome&logoColor=white">
+  </a>
+  <a href="mailto:andersonrosa.dev@gmail.com">
+    <img src="https://img.shields.io/badge/-andersonrosa.dev@gmail.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+</p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 🧠 About Me
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=anderrosa&show_icons=true&theme=radical)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=anderrosa&layout=compact&theme=radical)
+- 🔭 Freelance Fullstack Developer at [ACSUPPORT](https://acsupport.com.br/) and [SANCHESWEB](https://www.instagram.com/sancheswebbr/)
+- 💼  Available for Freelancer projects and Junior Backend Dev positions
+- 🎓 Full certification by Rocketseat
+- 📹 I create dev content on [Instagram](https://www.instagram.com/andersonrosa.dev/)
 
 ---
+
+## 🛠️ Stacks
+
+[![My Skills](https://skillicons.dev/icons?i=python,flask,wordpress,html,css,tailwindcss,js,docker,mysql,postgresql,mongodb,redis,git,gitlab,github)](https://skillicons.dev)
+
+---
+
+### 💻 Tech Stack Highlights
+
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderrosa&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+</p>
+
+---
+
+### 🟩 Latest Commit Energy
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=anderrosa&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+</p>
+
+<p align="center">
+  <em>Keep building. One commit at a time.</em> 🟩
+</p>
+
+---
+<p align="center">
+  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
+</p>
 <!---
 anderrosa/anderrosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
