@@ -4,6 +4,10 @@
   <em>Software Engineer • Tech Content Creator • Python Backend Developer</em>
 </p>
 
+<p align="center">
+  <img src="https://github.com/anderrosa/anderrosa/blob/main/commit-animation.gif" width="400px" alt="commit gif looping" />
+</p>
+
 ---
 
 <p align="center">
@@ -60,7 +64,7 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
+  <img src="https://github.com/anderrosa/anderrosa/blob/main/github-user-contribution.svg" alt="snake">
 </p>
 <!---
 anderrosa/anderrosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
