@@ -8,10 +8,6 @@
   <img src="https://github.com/anderrosa/anderrosa/blob/main/commit-animation.gif" width="400px" alt="commit gif looping" />
 </p>
 
-<p align="center">
-  <em>Keep building. One commit at a time.</em> 🟩
-</p>
-
 ---
 
 <p align="center">
@@ -46,10 +42,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,wordpress,html,css,tailwindcss,js,docker,mysql,postgresql,mongodb,redis,git,gitlab,github)](https://skillicons.dev)
 
----
+#
 
 <p align="center">
-  <img src="https://github.com/anderrosa/anderrosa/blob/main/github-user-contribution.svg" alt="snake">
+  <em>Keep building. One commit at a time.</em> 🟩
 </p>
 <!---
 anderrosa/anderrosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
