@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Anderson Rosa 👋</h1>
 
 <p align="center">
-  <em>Software Engineer • Tech Content Creator • Python Backend Developer</em>
+  <em>Junior developer in training • Systems Analysis and Development Student • Tech Content Creator</em>
 </p>
 
 <p align="center">
@@ -31,16 +31,16 @@
 
 ### 🧠 About Me
 
-- 🔭 Freelance Fullstack Developer at [ACSUPPORT](https://acsupport.com.br/) and [SANCHESWEB](https://www.instagram.com/sancheswebbr/)
-- 💼  Available for Freelancer projects and Junior Backend Dev positions
-- 🎓 Full certification by Rocketseat
+- 🔭 Freelance Web Developer
+- 💼 Open to internships and junior roles (backend preferred)
+- 🎓 Certified by Rocketseat (Python)
 - 📹 I create dev content on [Instagram](https://www.instagram.com/andersonrosa.dev/)
 
 ---
 
 ## 🛠️ Stacks
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,wordpress,html,css,tailwindcss,js,docker,mysql,postgresql,mongodb,redis,git,gitlab,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,nodejs,bun,py,html,css,tailwind,wordpress,postgres,redis,docker,git)](https://skillicons.dev)
 
 #
 
